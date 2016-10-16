@@ -1,0 +1,35 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+header {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background: #F0BD35;
+}
+header div.col-12 {
+	margin:10px 0px;
+}
+header h2 {
+	margin: 3px 0px;
+}
+header p {
+	margin: 3px 0px;
+	font-size: small;
+}
+main {
+	margin-top: 120px;
+}
+.character {
+  border: 2px solid #fcfcfc;
+}
+.character img{
+  width:100%;
+}
+.character .name {
+	font-weight: bold;
+	font-size: medium;
+}
+.character p {
+	font-size: small;
+}
